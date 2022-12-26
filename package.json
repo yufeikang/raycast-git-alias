@@ -14,9 +14,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "git alias",
-      "subtitle": "search git alias",
-      "description": "Search git alias",
+      "title": "Git Alias",
+      "description": "Search Oh-My-Zsh Git Alias",
       "mode": "view"
     }
   ],
