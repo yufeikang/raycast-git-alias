@@ -3,7 +3,7 @@
   "name": "oh-my-zsh-git-alias",
   "title": "Oh My Zsh Git Alias",
   "description": "Quick search git alias.",
-  "icon": "command-icon.png",
+  "icon": "icon.png",
   "author": "yufeikang",
   "owner": "kang",
   "categories": [
